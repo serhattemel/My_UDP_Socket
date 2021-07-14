@@ -1,0 +1,14 @@
+C:\Users\serha\source\repos\UDP_Minimum_Listener\UDP_Minimum_Listener\bin\Debug\UDP_Minimum_Listener.exe.config
+C:\Users\serha\source\repos\UDP_Minimum_Listener\UDP_Minimum_Listener\bin\Debug\UDP_Minimum_Listener.exe
+C:\Users\serha\source\repos\UDP_Minimum_Listener\UDP_Minimum_Listener\bin\Debug\UDP_Minimum_Listener.pdb
+C:\Users\serha\source\repos\UDP_Minimum_Listener\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\UDP_Minimum_Listener\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.exe
+C:\Users\serha\source\repos\UDP_Minimum_Listener\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.pdb
+C:\Users\serha\source\repos\UDP_Minimum_Listener\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.csproj.AssemblyReference.cache
+C:\Users\serha\Desktop\UDP_Server\UDP_Minimum_Listener\bin\Debug\UDP_Minimum_Listener.exe.config
+C:\Users\serha\Desktop\UDP_Server\UDP_Minimum_Listener\bin\Debug\UDP_Minimum_Listener.exe
+C:\Users\serha\Desktop\UDP_Server\UDP_Minimum_Listener\bin\Debug\UDP_Minimum_Listener.pdb
+C:\Users\serha\Desktop\UDP_Server\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.csproj.AssemblyReference.cache
+C:\Users\serha\Desktop\UDP_Server\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\UDP_Server\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.exe
+C:\Users\serha\Desktop\UDP_Server\UDP_Minimum_Listener\obj\Debug\UDP_Minimum_Listener.pdb
